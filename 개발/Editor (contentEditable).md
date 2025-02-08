@@ -1,4 +1,7 @@
 
+참고
+https://blog.dalgu.app/dev/2
+
 ### Semantics
 https://developer.mozilla.org/ko/docs/Glossary/Semantics
 
