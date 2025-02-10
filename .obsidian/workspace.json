@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fb405a49d1fa4616",
+            "id": "edf0b2544ffc0279",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "아이템/Happymeal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Happymeal"
             }
           }
         ]
@@ -165,16 +169,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fb405a49d1fa4616",
+  "active": "edf0b2544ffc0279",
   "lastOpenFiles": [
-    "Study.md",
+    "Study/Bitcoin.md",
     "Study/http2.md",
+    "Welcome.md",
+    "Study.md",
+    "개발/wasm.md",
     "개발/Editor (contentEditable).md",
     "개발/체팅 (Websocket).md",
-    "Welcome.md",
     "아이템/Happymeal.md",
-    "Study/Bitcoin.md",
+    "아이템",
+    "개발",
     "Study/Index.md",
+    "Untitled.md",
     "Study",
     "Hello.md",
     "create a link.md",
