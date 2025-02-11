@@ -19,3 +19,7 @@
 이미지 editor
 
 
+## Blog
+
+- getsby : https://www.gatsbyjs.com/docs/glossary/static-site-generator/
+
