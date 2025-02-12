@@ -41,16 +41,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "snippets/JS.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JS"
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "77f0f7f2e4ba220c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -198,24 +208,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f635b4c0676ae0d9",
+  "active": "77f0f7f2e4ba220c",
   "lastOpenFiles": [
+    "Study.md",
+    "Study/음식 사진 분류 모델 Study.md",
+    "아이템/Happymeal.md",
+    "config/windows-terminal.md",
     "daily/2025-02-10.md",
+    "Welcome.md",
+    "Study/http2.md",
+    "개발/체팅 (Websocket).md",
+    "개발/Editor (contentEditable).md",
+    "Study/Bitcoin.md",
     "snippets/JS.md",
     "snippets",
-    "Welcome.md",
-    "Study.md",
-    "config/windows-terminal.md",
     "config/windows-terminal/settings.md",
     "config/windows-terminal",
     "config",
-    "아이템/Happymeal.md",
     "daily",
-    "개발/Editor (contentEditable).md",
-    "Study/Bitcoin.md",
-    "Study/http2.md",
     "개발/wasm.md",
-    "개발/체팅 (Websocket).md",
     "아이템",
     "개발",
     "Study/Index.md",
