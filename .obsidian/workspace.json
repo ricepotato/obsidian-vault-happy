@@ -53,10 +53,14 @@
             "id": "77f0f7f2e4ba220c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Study/음식 사진 분류 모델 Study.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "음식 사진 분류 모델 Study"
             }
           }
         ],
@@ -204,17 +208,18 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "77f0f7f2e4ba220c",
   "lastOpenFiles": [
     "Study.md",
+    "Welcome.md",
     "Study/음식 사진 분류 모델 Study.md",
     "아이템/Happymeal.md",
     "config/windows-terminal.md",
     "daily/2025-02-10.md",
-    "Welcome.md",
     "Study/http2.md",
     "개발/체팅 (Websocket).md",
     "개발/Editor (contentEditable).md",
