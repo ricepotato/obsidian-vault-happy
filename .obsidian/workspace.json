@@ -64,12 +64,26 @@
             }
           },
           {
-            "id": "0ce1a51bdf593fbc",
+            "id": "2078e88eba639dc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resume/resume.md",
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "46be538759ddfaf6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "resume.md",
                 "mode": "source",
                 "source": false
               },
@@ -78,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -226,13 +240,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0ce1a51bdf593fbc",
+  "active": "46be538759ddfaf6",
   "lastOpenFiles": [
+    "Study.md",
+    "resume.md",
+    "Portfolio.md",
+    "portfolio/Bitcoin 지갑.md",
     "Welcome.md",
-    "resume/resume.md",
+    "portfolio",
     "resume",
     "Study/음식 사진 분류 모델 Study.md",
-    "Study.md",
     "아이템/Happymeal.md",
     "config/windows-terminal.md",
     "daily/2025-02-10.md",
