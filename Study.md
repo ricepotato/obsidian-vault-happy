@@ -19,7 +19,16 @@
 이미지 editor
 
 
-## Blog
+### machine learning
+
+https://tensorflow.blog/
+
+
+![[Pasted image 20250216180636.png]]
+
+
+
+### Blog
 
 - getsby : https://www.gatsbyjs.com/docs/glossary/static-site-generator/
 
