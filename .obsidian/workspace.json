@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "snippets/JS.md",
+                "file": "Study.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JS"
+              "title": "Study"
             }
           }
         ],
@@ -254,26 +254,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5d6257945f23de1d",
+  "active": "328ed217ee64dc88",
   "lastOpenFiles": [
+    "resume.md",
     "Pasted image 20250216180636.png",
+    "Study.md",
+    "Welcome.md",
+    "Study/음식 사진 분류 모델 Study.md",
+    "snippets/JS.md",
     "Study/Nextjs.md",
     "Study/http2.md",
-    "resume.md",
-    "Study.md",
     "Portfolio.md",
     "portfolio/Bitcoin 지갑.md",
-    "Welcome.md",
     "portfolio",
     "resume",
-    "Study/음식 사진 분류 모델 Study.md",
     "아이템/Happymeal.md",
     "config/windows-terminal.md",
     "daily/2025-02-10.md",
     "개발/체팅 (Websocket).md",
     "개발/Editor (contentEditable).md",
     "Study/Bitcoin.md",
-    "snippets/JS.md",
     "snippets",
     "config/windows-terminal/settings.md",
     "config/windows-terminal",
