@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "2025-02-24 세미나"
             }
+          },
+          {
+            "id": "8aec783dbc11b5bb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,7 +180,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e0dab3efa5f2d3b8",
+  "active": "8aec783dbc11b5bb",
   "lastOpenFiles": [
     "2025-02-24 세미나.md",
     "snippets/JS.md",
