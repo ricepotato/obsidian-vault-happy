@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "snippets/CURL.md",
+                "file": "Study/AWS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CURL"
+              "title": "AWS"
             }
           }
         ],
@@ -186,8 +186,13 @@
   },
   "active": "eb1715b7016dfec1",
   "lastOpenFiles": [
-    "Study.md",
+    "개발/체팅 (Websocket).md",
+    "Study/AWS.md",
+    "개발/wasm.md",
+    "개발/Editor (contentEditable).md",
+    "Study/Nextjs.md",
     "snippets/CURL.md",
+    "Study.md",
     "resume.md",
     "snippets/postgresql.md",
     "2025-02-24 세미나.md",
@@ -198,7 +203,6 @@
     "Pasted image 20250216180636.png",
     "Welcome.md",
     "Study/음식 사진 분류 모델 Study.md",
-    "Study/Nextjs.md",
     "Study/http2.md",
     "Portfolio.md",
     "portfolio",
@@ -206,15 +210,12 @@
     "아이템/Happymeal.md",
     "config/windows-terminal.md",
     "daily/2025-02-10.md",
-    "개발/체팅 (Websocket).md",
-    "개발/Editor (contentEditable).md",
     "Study/Bitcoin.md",
     "snippets",
     "config/windows-terminal/settings.md",
     "config/windows-terminal",
     "config",
     "daily",
-    "개발/wasm.md",
     "아이템",
     "개발",
     "Study/Index.md",
@@ -222,7 +223,6 @@
     "Hello.md",
     "create a link.md",
     "Untitled.canvas",
-    "Pasted image 20250207173638.png",
-    "2025-02-07.md"
+    "Pasted image 20250207173638.png"
   ]
 }
