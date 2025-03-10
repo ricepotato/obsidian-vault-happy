@@ -37,14 +37,12 @@
             "id": "9d50806e257e0e12",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Study/음식 사진 분류 모델 Study.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20250216180636.png"
               },
-              "icon": "lucide-file",
-              "title": "음식 사진 분류 모델 Study"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250216180636"
             }
           }
         ],
@@ -198,7 +196,9 @@
   },
   "active": "328ed217ee64dc88",
   "lastOpenFiles": [
+    "Pasted image 20250216180636.png",
     "conflict-files-obsidian-git.md",
+    "Study/음식 사진 분류 모델 Study.md",
     "snippets/postgresql.md",
     "snippets/Emoji 🤩.md",
     "snippets/CURL.md",
@@ -208,14 +208,12 @@
     "snippets/git.md",
     "Welcome.md",
     "resume.md",
-    "Pasted image 20250216180636.png",
     "2025-02-24 세미나.md",
     "portfolio/Bitcoin 지갑.md",
     "portfolio",
     "Study/Nextjs.md",
     "resume/resume.md",
     "resume",
-    "Study/음식 사진 분류 모델 Study.md",
     "Study.md",
     "아이템/Happymeal.md",
     "daily/2025-02-10.md",
@@ -232,7 +230,6 @@
     "개발/wasm.md",
     "아이템",
     "개발",
-    "Study/Index.md",
     "Study",
     "Untitled.canvas",
     "Pasted image 20250207173638.png"
