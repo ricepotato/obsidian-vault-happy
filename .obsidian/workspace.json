@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/AWS.md",
+                "file": "snippets/CURL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AWS"
+              "title": "CURL"
             }
           }
         ],
@@ -186,8 +186,8 @@
   },
   "active": "eb1715b7016dfec1",
   "lastOpenFiles": [
-    "개발/체팅 (Websocket).md",
     "Study/AWS.md",
+    "개발/체팅 (Websocket).md",
     "개발/wasm.md",
     "개발/Editor (contentEditable).md",
     "Study/Nextjs.md",
