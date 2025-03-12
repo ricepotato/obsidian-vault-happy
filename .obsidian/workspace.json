@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "config/windows-terminal.md",
+                "file": "snippets/JS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "windows-terminal"
+              "title": "JS"
             }
           }
         ]
@@ -171,8 +171,8 @@
   },
   "active": "e8dd28be32714dd0",
   "lastOpenFiles": [
-    "config/vscode settings.md",
     "config/windows-terminal.md",
+    "config/vscode settings.md",
     "snippets/JS.md",
     "Pasted image 20250216180636.png",
     "conflict-files-obsidian-git.md",

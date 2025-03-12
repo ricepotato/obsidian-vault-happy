@@ -26,3 +26,21 @@ export async function Timeout({
   return children;
 }
 ```
+
+
+#### Typescript 의 enum 대체제
+
+
+
+```typescript
+export const AddressErrors = {
+  DuplicateAddress: "DuplicateAddress",
+  FileSizeExceeded: "FileSizeExceeded",
+  SizeLimitExceeded: "SizeLimitExceeded",
+  InvalidAddress: "InvalidAddress"
+}
+
+export type AddressError = (typeof AddressErrors)[keyof typeof AddressErrors];
+```
+
+출처 : https://velog.io/@leehaeun0/typescript-enum-%EC%9D%84-union%EC%9C%BC%EB%A1%9C-%EB%B3%80%EA%B2%BD%ED%95%98%EA%B8%B0
