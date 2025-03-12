@@ -37,12 +37,14 @@
             "id": "9d50806e257e0e12",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20250216180636.png"
+                "file": "resume.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250216180636"
+              "icon": "lucide-file",
+              "title": "resume"
             }
           }
         ],
@@ -194,11 +196,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "328ed217ee64dc88",
+  "active": "9d50806e257e0e12",
   "lastOpenFiles": [
+    "Pasted image 20250216180636.png",
     "resume.md",
     "Study.md",
-    "Pasted image 20250216180636.png",
     "config/vscode settings.md",
     "conflict-files-obsidian-git.md",
     "Study/음식 사진 분류 모델 Study.md",
