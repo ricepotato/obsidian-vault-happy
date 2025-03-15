@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "815a7f15830a1c60",
+        "id": "cd75a45d5eaffbe8",
         "type": "tabs",
         "children": [
           {
-            "id": "eaec8369c58a9010",
+            "id": "694af83135343f17",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "snippets/Emoji 🤩.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Emoji 🤩"
+              "title": "New tab"
             }
           }
         ]
@@ -169,10 +165,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eaec8369c58a9010",
+  "active": "694af83135343f17",
   "lastOpenFiles": [
-    "resume.md",
     "snippets/Emoji 🤩.md",
+    "resume.md",
     "Pasted image 20250216180636.png",
     "Study/AWS.md",
     "개발/체팅 (Websocket).md",
