@@ -2,7 +2,7 @@
 ### 잠시 대기하는 함수
 
 ```
-const deplay = (ms) => {
+const deplay = (ms: number) => {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
 ```
