@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "snippets/JS.md",
+                "file": "snippets/docker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JS"
+              "title": "docker"
             }
           }
         ]
@@ -171,11 +171,12 @@
   },
   "active": "1aa064a3a6f396ba",
   "lastOpenFiles": [
+    "snippets/shell.md",
     "snippets/git.md",
+    "snippets/JS.md",
     "snippets/AWS CLI.md",
     "snippets/Emoji 🤩.md",
     "snippets/postgresql.md",
-    "snippets/JS.md",
     "Study/AWS.md",
     "Study/음식 사진 분류 모델 Study.md",
     "snippets/docker.md",
@@ -199,7 +200,6 @@
     "Study/http2.md",
     "개발/체팅 (Websocket).md",
     "개발/Editor (contentEditable).md",
-    "Study/Bitcoin.md",
     "snippets",
     "config/windows-terminal",
     "config",
