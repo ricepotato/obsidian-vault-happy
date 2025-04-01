@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "snippets/ffmpeg.md",
+                "file": "resume.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ffmpeg"
+              "title": "resume"
             }
           }
         ]
@@ -171,22 +171,22 @@
   },
   "active": "9d50806e257e0e12",
   "lastOpenFiles": [
+    "Study.md",
+    "resume.md",
+    "snippets/ffmpeg.md",
     "Study/AWS.md",
     "snippets/shell.md",
     "snippets/pip.md",
     "snippets/AWS CLI.md",
     "snippets/docker.md",
     "snippets/CURL.md",
-    "resume.md",
     "Pasted image 20250216180636.png",
-    "Study.md",
     "config/vscode settings.md",
     "conflict-files-obsidian-git.md",
     "Study/음식 사진 분류 모델 Study.md",
     "snippets/postgresql.md",
     "snippets/Emoji 🤩.md",
     "config/windows-terminal.md",
-    "snippets/ffmpeg.md",
     "snippets/git.md",
     "Welcome.md",
     "2025-02-24 세미나.md",

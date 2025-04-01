@@ -14,8 +14,6 @@ https://www.dunamu.com/careers/jobs/1101?category=engineering
 https://f-lab.kr/blog/developer-blog-tips
 
 
-#### TOSS private session
+### toss infra ops 공고
 
-https://docs.google.com/forms/d/e/1FAIpQLSfFE0l4R5BKcbL2z27GtE8xo0lcuMkdcWqTaN06fPeE06U39A/viewform
-
-
+https://toss.im/career/job-detail?job_id=6046801003&detailedPosition=5%EB%85%84%20%EC%9D%B4%EC%83%81
