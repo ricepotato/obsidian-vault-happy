@@ -37,3 +37,5 @@ https://toss.im/career/job-detail?job_id=6046801003&detailedPosition=5%EB%85%84%
 
 #### 오픈소스를 활용한 악성코드 자동 진단 시스템 구축/운영
 
+
+#### AntiVirus Engine 오진 탐지 자동화
