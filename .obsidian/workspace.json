@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "snippets/docker.md",
+                "file": "snippets/pip.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "docker"
+              "title": "pip"
             }
           }
         ]
@@ -172,8 +172,8 @@
   "active": "1aa064a3a6f396ba",
   "lastOpenFiles": [
     "snippets/pip.md",
-    "snippets/ffmpeg.md",
     "snippets/docker.md",
+    "snippets/ffmpeg.md",
     "snippets/shell.md",
     "snippets/git.md",
     "snippets/JS.md",
