@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOSS Infra ops resume.md",
+                "file": "Study/AWS Developer Associate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TOSS Infra ops resume"
+              "title": "AWS Developer Associate"
             }
           }
         ]
@@ -171,25 +171,28 @@
   },
   "active": "9d50806e257e0e12",
   "lastOpenFiles": [
-    "채용.md",
-    "Study.md",
-    "TOSS Infra ops resume.md",
-    "Pasted image 20250216180636.png",
-    "snippets/ffmpeg.md",
     "Study/AWS.md",
+    "Study/AWS Developer Associate.md",
+    "Study/음식 사진 분류 모델 Study.md",
+    "Welcome.md",
+    "Study/http2.md",
+    "채용.md",
     "snippets/shell.md",
     "snippets/pip.md",
     "snippets/AWS CLI.md",
+    "TOSS Infra ops resume.md",
     "snippets/docker.md",
     "snippets/CURL.md",
+    "resume.md",
+    "Pasted image 20250216180636.png",
+    "Study.md",
     "config/vscode settings.md",
     "conflict-files-obsidian-git.md",
-    "Study/음식 사진 분류 모델 Study.md",
     "snippets/postgresql.md",
     "snippets/Emoji 🤩.md",
     "config/windows-terminal.md",
+    "snippets/ffmpeg.md",
     "snippets/git.md",
-    "Welcome.md",
     "2025-02-24 세미나.md",
     "portfolio/Bitcoin 지갑.md",
     "portfolio",
@@ -197,8 +200,6 @@
     "resume/resume.md",
     "resume",
     "아이템/Happymeal.md",
-    "daily/2025-02-10.md",
-    "Study/http2.md",
     "snippets",
     "config/windows-terminal",
     "config",
